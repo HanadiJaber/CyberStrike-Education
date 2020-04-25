@@ -1,5 +1,5 @@
 # CyberStrike-Education
-This project looks into developing an educational game prototype 'CyberStrike Education' that raises cybersecurity awareness based on the results obtained from an initial survey, to engage with all players regardless of their gender, age or gaming experience. Game surveys were used to evaluate the effectiveness of the game in meeting the projects objectives. 
+This project looks into the various aspects considered when developing an educational game 'CyberStrike Education' that raises cybersecurity awareness based on results obtained from an initial survey, to engage with all players regardless of their gender, age or gaming experience. Game surveys were used to evaluate the effectiveness of the game in meeting the projects objectives. 
 
 
 # Links
